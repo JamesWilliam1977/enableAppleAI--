@@ -2,6 +2,8 @@
 
 [English README](README_EN.md) | [中文说明](README.md)
 
+## **注意：26.5 beta 4 及以上版本该方法会失效。新的开启方法正在研究中。在此之前，如果你需要使用Apple智能，请不要升级到MacOS 26.5 beta 4或更高版本！**
+
 一种在MacOS上（目前测试MacOS 15.4+及26.1均可），无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。
 
 <img width="1411" alt="截屏2025-05-04 09 42 49" src="https://github.com/user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04" />
